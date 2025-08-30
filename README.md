@@ -2,7 +2,9 @@
 
 ## Updates
 
-- **[March 25, 2025]** Our paper "MESO: A Multi-strategy Enhanced Snake Optimizer Applied to Autonomous Vehicle Motion Planning" has been accepted in Cluster Computing.
+- **[August 30, 2025]** Our paper "[MESO: A Multi-strategy Enhanced Snake Optimizer Applied to Autonomous Vehicle Motion Planning](https://link.springer.com/article/10.1007/s10586-025-05273-5)" has been published.
+
+- **[March 25, 2025]** Our paper has been accepted in Cluster Computing.
 
 ## Introduction
 This repository contains the open-source code for the paper titled "MESO: A Multi-strategy Enhanced Snake Optimizer Applied to Autonomous Vehicle Motion Planning," which has been accepted by the journal *Cluster Computing*. 
